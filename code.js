@@ -19,8 +19,3 @@ function binarySearch(list, element) {
     }
     return -1;
 }
-
-
-
-test = binarySearch([1,3,5,7,9,11,13,15],7);
-console.log(test);
